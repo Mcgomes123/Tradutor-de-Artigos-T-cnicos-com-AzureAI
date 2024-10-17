@@ -1,0 +1,1 @@
+# Tradutor-de-Artigos-T-cnicos-com-AzureAI
